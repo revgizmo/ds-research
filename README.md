@@ -10,6 +10,6 @@ Research on multiplicity and statistical inference for fixed-horizon A/B testing
 4. [Multiplicity-adjusted confidence intervals](reports/04-multiplicity-adjusted-confidence-intervals.md)
 5. [Binary and continuous test intervals](reports/05-test-intervals.md)
 
-Source: four completed research reports from the DS Research ChatGPT project, November 10, 2026.
+Source: five completed research reports from the DS Research ChatGPT project, November 10, 2026.
 
 These reports retain the research text and citations as Markdown. The references and conclusions have not been independently revalidated during publication.
