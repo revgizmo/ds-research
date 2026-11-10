@@ -8,6 +8,7 @@ Research on multiplicity and statistical inference for fixed-horizon A/B testing
 2. [Defining hypothesis families](reports/02-hypothesis-families.md)
 3. [Industry platform practices](reports/03-industry-platform-practices.md)
 4. [Multiplicity-adjusted confidence intervals](reports/04-multiplicity-adjusted-confidence-intervals.md)
+5. [Binary and continuous test intervals](reports/05-test-intervals.md)
 
 Source: four completed research reports from the DS Research ChatGPT project, November 10, 2026.
 
